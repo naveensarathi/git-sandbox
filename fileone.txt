@@ -1,5 +1,8 @@
 this is first commit to thte file . this linke will be committed to the repo
 new added line
 
+
 to persis the changes directly with out putting the changes to staging area
 one
+some more changes to the file for the next commit 
+
