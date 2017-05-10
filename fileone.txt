@@ -6,3 +6,5 @@ to persis the changes directly with out putting the changes to staging area
 one
 some more changes to the file for the next commit 
 
+FILE GETS ADDED this FILE 
+NOW
