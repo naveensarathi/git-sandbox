@@ -7,4 +7,4 @@ one
 some more changes to the file for the next commit 
 
 FILE GETS ADDED this FILE 
-NOW
+NOWa
